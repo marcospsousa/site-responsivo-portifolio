@@ -1,0 +1,22 @@
+{
+  "name": "public_html",
+  "homepage": "https://github.com/marcospsousa/site-portifolio-responsivo",
+  "authors": [
+    "'marcos' <'marcosp.sousa@gmail.com'>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "sass-flex-mixin": "^1.0.3"
+  }
+}
